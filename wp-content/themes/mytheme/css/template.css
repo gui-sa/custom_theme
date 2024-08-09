@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    border: 0 transparent;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body, .no-x-overflow{
+    width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    background-color: aqua;
+}
+
+.default-font{
+    font-family: sans-serif;
+}
